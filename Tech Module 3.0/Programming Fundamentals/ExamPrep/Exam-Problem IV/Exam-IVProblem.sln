@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOBA", "Exam-IVProblem\MOBA.csproj", "{CB91495C-8725-4156-8564-BCD2E5CF4192}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForceBook", "ForceBook\ForceBook.csproj", "{A534DA26-4D6C-404C-8F52-FD26539977BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowWhite", "SnowWhite\SnowWhite.csproj", "{0D33AEED-C19B-448C-95E5-58FE85F85B9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonCache", "AnonCache\AnonCache.csproj", "{D0C9C747-B4F4-4DB9-9A77-2EC7C9064949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonEvol", "PokemonEvol\PokemonEvol.csproj", "{89F73BFC-61AB-40F2-B4D7-9575C6B9AF03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hornet", "Hornet\Hornet.csproj", "{415F6A83-D73A-4EBE-9473-714F5963A106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karaoke", "Karaoke\Karaoke.csproj", "{1A8EC7F3-8A71-49D6-85BE-BA11D3B536BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB91495C-8725-4156-8564-BCD2E5CF4192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB91495C-8725-4156-8564-BCD2E5CF4192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB91495C-8725-4156-8564-BCD2E5CF4192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB91495C-8725-4156-8564-BCD2E5CF4192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A534DA26-4D6C-404C-8F52-FD26539977BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A534DA26-4D6C-404C-8F52-FD26539977BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A534DA26-4D6C-404C-8F52-FD26539977BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A534DA26-4D6C-404C-8F52-FD26539977BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D33AEED-C19B-448C-95E5-58FE85F85B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D33AEED-C19B-448C-95E5-58FE85F85B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D33AEED-C19B-448C-95E5-58FE85F85B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D33AEED-C19B-448C-95E5-58FE85F85B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C9C747-B4F4-4DB9-9A77-2EC7C9064949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C9C747-B4F4-4DB9-9A77-2EC7C9064949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C9C747-B4F4-4DB9-9A77-2EC7C9064949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C9C747-B4F4-4DB9-9A77-2EC7C9064949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89F73BFC-61AB-40F2-B4D7-9575C6B9AF03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F73BFC-61AB-40F2-B4D7-9575C6B9AF03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F73BFC-61AB-40F2-B4D7-9575C6B9AF03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F73BFC-61AB-40F2-B4D7-9575C6B9AF03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{415F6A83-D73A-4EBE-9473-714F5963A106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{415F6A83-D73A-4EBE-9473-714F5963A106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{415F6A83-D73A-4EBE-9473-714F5963A106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{415F6A83-D73A-4EBE-9473-714F5963A106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A8EC7F3-8A71-49D6-85BE-BA11D3B536BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8EC7F3-8A71-49D6-85BE-BA11D3B536BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8EC7F3-8A71-49D6-85BE-BA11D3B536BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8EC7F3-8A71-49D6-85BE-BA11D3B536BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BECBBED-4D2E-4423-81AB-9838CBAFD827}
+	EndGlobalSection
+EndGlobal
